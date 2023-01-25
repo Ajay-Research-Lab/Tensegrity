@@ -16,3 +16,9 @@ There are two excel books provided in this repository.
     - For the mode 7 (with one-end of the rods fixed)
 
 ## Matlab codes
+
+
+
+**Note:** The provided plotting codes use an external library *matlab2tikz* in order to save the generated MATLAB figure in vector graphics format. The exact version of the toolbox used has been provided in the folder *matlab2tikz*. This includes their entire repository (including license agreements and source codes). The latest/current version of this toolbox can be found through their GitHub repository (https://github.com/matlab2tikz/matlab2tikz). These links are being provided as a convenience and for informational purposes only; they do not constitute an endorsement or an approval of any of these products, services or opinions of the corporation or organization or individual. We bear no responsibility for the accuracy, legality or content of this external site or for that of subsequent links. Contact the owner of this external toolbox, *matlab2tikz*, for answers to questions regarding its content.
+
+- 
